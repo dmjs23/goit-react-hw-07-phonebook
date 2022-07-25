@@ -1,0 +1,18 @@
+li {
+  list-style: circle;
+}
+
+.button {
+  padding: 5px, 2px;
+  background-color: #e4e4e4;
+  border: 1px solid #000000;
+  color: black;
+  border-radius: 15px;
+  margin: 0 10px 10px 10px;
+}
+
+.button:hover {
+  background-color: #b2b2b2;
+  color: white;
+  cursor: pointer;
+}
