@@ -8,7 +8,6 @@ export const App = () => {
 
   return (
       <div className={styles.container}>
-        {/* <h1>PhoneBook by Adri@no</h1> */}
         <ContactForm/>
         <h2>Contacts</h2>
         <Filter/>
